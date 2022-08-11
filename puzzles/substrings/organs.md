@@ -12,4 +12,4 @@ Brain   Colon   Eye   Heart   Liver   Lung   Nose   Skin
 Eye!   Colon!   Heart!   Liver!   Nose!   Skin!
 
 ## Hard
-Brain!   <Eye>    Lung!
+Brain!   \<Eye>    Lung!
